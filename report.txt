@@ -1,0 +1,12 @@
+=== GLOW WORM - GAME REPORT ===
+Date: 2026-10-27 20:58
+Difficulty: HARD
+Final score: 20
+Level reached: 1
+Time played: 0m 8s
+Snake length: 5
+Normal food eaten: 2
+Golden stars eaten: 0
+Poison eaten: 0
+Walls on the board: 0
+Made the top 5: No
